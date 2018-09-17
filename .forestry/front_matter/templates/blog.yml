@@ -11,3 +11,5 @@ fields:
   name: date_
   label: date
   description: Date of blog entry
+pages:
+- content/blog/test-blog-entry.md
