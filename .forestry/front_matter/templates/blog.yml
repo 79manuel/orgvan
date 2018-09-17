@@ -1,0 +1,13 @@
+---
+label: " blog"
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Title of the blog entry
+- type: datetime
+  name: date_
+  label: date
+  description: Date of blog entry
