@@ -6,3 +6,5 @@ fields:
 - type: textarea
   name: description
   label: Description
+pages:
+- content/blog/_index.html
