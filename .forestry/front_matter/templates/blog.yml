@@ -12,4 +12,5 @@ fields:
   label: date
   description: Date of blog entry
 pages:
+- content/blog/this-is-a-fake-blog-entry.md
 - content/blog/test-blog-entry.md
