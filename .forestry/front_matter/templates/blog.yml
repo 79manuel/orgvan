@@ -11,6 +11,9 @@ fields:
   name: date_
   label: date
   description: Date of blog entry
+- type: file
+  name: image
+  label: image
 pages:
 - content/blog/this-is-a-fake-blog-entry.md
 - content/blog/test-blog-entry.md
