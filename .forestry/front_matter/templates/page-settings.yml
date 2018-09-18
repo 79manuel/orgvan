@@ -7,4 +7,5 @@ fields:
   name: description
   label: Description
 pages:
+- content/index.html
 - content/blog/_index.html
