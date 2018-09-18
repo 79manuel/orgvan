@@ -1,79 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Organized Vancouver</title>
-    <link rel="icon" type="image/png" href="images/Logo-copy.png" />
-    <link rel="stylesheet" href="css/style.css">
-    <script src="js/js.js"></script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-    <!--TODO: Add map site (xml file in root folder) -->
-</head>
-<body>
-
-<header>
-    <div class="logo">
-        <a href="index.html">
-            <img src="images/OrganizedVanvouver_Icon.png" alt="Organized Vancouver logo">
-        </a>
-    </div>
-    <div class="navbar">
-        <ul>
-            <li class="dropdown" style="float:right">
-                Professional Organizing Services
-                <ul>
-                    <li class="dropdown-content" style="right: -2px; margin: 0; padding: 0;">
-                        <a href="homeorg.html">Home Organizing</a>
-                        <a href="office.html">Office Organizing</a>
-                        <a href="time-management.html">Time Management</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="dropdown" style="float:left">
-                About Me
-                <ul>
-                    <li class="dropdown-content-about-me" style="left: -2px; margin: 0; padding: 0;">
-                        <a href="aboutme.html">Meet Laura</a>
-                        <a href="testimonials.html">Testimonials</a>
-                        <a href="#">Gallery (Currently being organized)</a>
-                    </li>
-                </ul>
-            </li>
-            <li class="dropdown" style="float:left">
-                <a href="wardrobe.html">Ideas and Inspiration</a>
-            </li>
-            <li ><a href="tel:604-612-6486">Contact Us<br>
-                604-612-6486</a>
-            </li>
-        </ul>
-    </div>
-    <div class="phone-number-mobile">
-        <a href="tel:604-612-6486">Contact Us<br>
-            604-612-6486</a>
-    </div>
-    <div class="hamburguer-menu">
-        <button onclick="myFunction()" class="dropbtn">
-            <img src="images/menu-three-horizontal-lines-symbol.png">
-        </button>
-        <div id="myDropdown" class="dropdown-content-mobile">
-            <a href="homeorg.html">Home Organizing</a>
-            <a href="office.html">Office Organizing</a>
-            <a href="time-management.html">Time Management</a>
-            <a href="aboutme.html">Meet Laura</a>
-            <a href="testimonials.html">Testimonials</a>
-            <a href="#">Gallery (Coming Soon)</a>
-            <a href="wardrobe.html">Ideas and Inspiration</a>
-        </div>
-    </div>
-
-</header>
-
-<section class="paralax-image">
-    <h1>ORGANIZED VANCOUVER</h1>
-    <p>Orderly spaces with function & style</p>
-    <p> home & office</p>
-</section>
+{{ define "main" }}
 
 <main>
     <div>
@@ -119,7 +44,7 @@
     <article>
         <h1>About</h1>
         <p>
-            At Organized Vancouver, we are passionate about creating orderly spaces.  We specialize in creating both
+            At Organized Vancouver, we are passionate about creating orderly spaces. We specialize in creating both
             functional and beautiful systems. Whether you need to get a better handle on your living spaces including
             your entryway, kitchen, pantry, closets, wardrobe, home office, kids’ rooms or garage and storage areas.
             It might surprise you but we love to help to get homes and spaces in order!
@@ -138,58 +63,9 @@
             We guarantee your confidentiality.
         </p>
         <p>
-            Contact us <a href="mailto:info@organizedvancouver.com">info@organizedvancouver.com</a> today for a complimentary consultation.
+            Contact us <a href="mailto:info@organizedvancouver.com">info@organizedvancouver.com</a> today for a
+            complimentary consultation.
         </p>
     </article>
 </section>
-<footer>
-    <div class="footer-block-1">
-        <div>
-            <h1>Follow Me:</h1>
-            <ul>
-                <li><a href="#"><img src="images/001-facebook-logo.png" alt="facebook icon"></a></li>
-                <li><a href="https://www.instagram.com/organizedvancouver/">
-                    <img src="images/002-instagram-social-network-logo-of-photo-camera.png" alt="instagram icon"></a></li>
-            </ul>
-        </div>
-
-        <div class="contact-info">
-            <h1>Contact:</h1>
-            <ul>
-                <li>
-                    <p><a href="mailto:info@organizedvancouver.com">info@organizedvancouver.com</a></p>
-                </li>
-                <li>
-                    <p><a href="tel:604-612-6486">604-612-6486</a></p>
-                </li>
-            </ul>
-        </div>
-
-        <div class="member-of">
-            <h1>Member of:</h1>
-            <img src="images/POC_logo_colour_for_print.jpg" alt="professional organizers canada logo">
-        </div>
-    </div>
-    <ul class="map-site">
-        <li>Professional Organizing Services
-            <ul>
-                <li><a href="homeorg.html">Home Organizing</a></li>
-                <li><a href="office.html">Office Organizing</a></li>
-                <li><a href="time-management.html">Time Management</a></li>
-            </ul>
-        </li>
-        <li>About Me
-            <ul>
-                <li><a href="aboutme.html">Meet Laura</a></li>
-                <li><a href="testimonials.html">Testimonials</a></li>
-                <li><a href="#">Gallery</a></li>
-            </ul>
-        </li>
-        <li><a href="wardrobe.html">Ideas and Inspiration</a></li>
-    </ul>
-    <div class="copyright">
-        <p>2018 &copy; Organized Vancouver</p>
-    </div>
-</footer>
-</body>
-</html>
+{{ end }}
