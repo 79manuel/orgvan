@@ -2,4 +2,7 @@
 label: page settings
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: textarea
+  name: description
+  label: Description
