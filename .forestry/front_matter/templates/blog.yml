@@ -15,5 +15,6 @@ fields:
   name: image
   label: image
 pages:
+- content/blog/test-with-images.md
 - content/blog/this-is-a-fake-blog-entry.md
 - content/blog/test-blog-entry.md
