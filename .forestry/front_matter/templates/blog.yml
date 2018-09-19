@@ -16,6 +16,8 @@ fields:
   label: image
 - type: textarea
   default: ''
+  label: description
+  name: description
 pages:
 - content/blog/Blog-entry-4.md
 - content/blog/test-with-images.md
