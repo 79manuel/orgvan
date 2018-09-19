@@ -17,6 +17,7 @@ fields:
 - type: textarea
   default: ''
 pages:
+- content/blog/Blog-entry-4.md
 - content/blog/test-with-images.md
 - content/blog/this-is-a-fake-blog-entry.md
 - content/blog/test-blog-entry.md
