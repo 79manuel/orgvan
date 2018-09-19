@@ -583,14 +583,20 @@ article .brooks {
 
 .blog-main {
   border: 2px solid blue;
-  margin-top: 200px;
+  margin: 200px auto;
   text-align: center;
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px; }
-  .blog-main article img {
-    width: 100%;
-    object-fit: fill;
-    border: 3px solid blue; }
+  width: 70%; }
+  .blog-main article {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    height: 4px;
+      height-border: 1px solid black; }
+    .blog-main article h1 {
+      color: red; }
+    .blog-main article img {
+      width: 100%;
+      object-fit: fill;
+      border: 3px solid blue; }
 
 @media only screen and (min-width: 689px) and (max-width: 1038px) {
   .paralax-image p {
