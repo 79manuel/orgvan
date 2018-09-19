@@ -561,20 +561,25 @@ article .brooks {
   background-size: cover; }
 
 .blog-list {
-  margin-top: 300px; }
-  .blog-list .posts-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    grid-auto-rows: minmax(100px, auto);
-    grid-gap: 10px;
-    height: 90vh;
-    border: 5px solid black; }
-    .blog-list .posts-container a {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-auto-rows: minmax(100px, auto);
+  grid-gap: 10px;
+  height: 90vh;
+  margin: 120px 10px 0 10px; }
+  .blog-list .post-container {
+    padding: 20px;
+    height: 50%;
+    border: 1px solid black; }
+    .blog-list .post-container a {
       grid-row: 1; }
-      .blog-list .posts-container a div {
-        width: 100px; }
-    .blog-list .posts-container h2 {
+      .blog-list .post-container a h1 {
+        font-size: 20px;
+        padding-bottom: 10px; }
+    .blog-list .post-container h2 {
       grid-row: 2; }
+    .blog-list .post-container p {
+      grid-row: 3; }
 
 .blog-tag {
   border: 1px solid black; }

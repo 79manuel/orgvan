@@ -1,7 +1,7 @@
 {{ define "main" }}
-<main class="blog-list">
+<div class="blog-list">
     {{ range .Pages }}
         {{ partial "blog-summary.html" . }}
     {{ end }}
-</main>
+</div>
 {{ end }}
