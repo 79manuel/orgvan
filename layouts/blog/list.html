@@ -1,11 +1,8 @@
+
 {{ define "main" }}
-<main>
-    <div class="posts-container">
-        {{ range .Pages }}
-        <div>
-            {{ partial "blog-summary.html" . }}
-        </div>
-        {{ end }}
-    </div>
+<main class="blog-list">
+    {{ range .Pages }}
+        {{ partial "blog-summary.html" . }}
+    {{ end }}
 </main>
 {{ end }}

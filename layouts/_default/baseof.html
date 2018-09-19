@@ -38,12 +38,12 @@
     {{ end }}
   </head>
 
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body>
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <!--<main class="pb7" role="main">-->
-      {{ block "main" . }}{{ end }}
-    </main>
+
+    {{ block "main" . }}{{ end }}
+
     {{ block "footer" . }}{{ partial "site-footer.html" . }}{{ end }}
     {{ block "scripts" . }}{{ partial "site-scripts.html" . }}{{ end }}
   </body>
