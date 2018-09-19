@@ -1,20 +1,13 @@
 
 {{ define "main" }}
+<h1 class="blog-tag">{{ .Params.title }}</h1>
 
-
-<h1 class="wardrobe-tag">{{ .Params.title }}</h1>
-
-<section class="paralax-image-blog">
-</section>
-
-<main class="wardrobe-main">
+<main class="blog-main">
 
     <article>
-        <p>
-            {{ .Content }}
-        </p>
+        {{ partial "blog.html" . }}
     </article>
 </main>
 
-<!--{{ partial "blog.html" . }}-->
+
 {{ end }}
