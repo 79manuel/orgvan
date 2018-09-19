@@ -1,6 +1,11 @@
 {{ define "main" }}
-<h1>Blog</h1>
-{{ range .Pages }}
-{{ partial "blog-summary.html" . }}
-{{ end }}
+<main>
+    <div class="posts-container">
+        {{ range .Pages }}
+        <div>
+            {{ partial "blog-summary.html" . }}
+        </div>
+        {{ end }}
+    </div>
+</main>
 {{ end }}

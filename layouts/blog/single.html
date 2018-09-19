@@ -1,6 +1,24 @@
-{{ define "header" }}
-<h1>My new blog header!</h1>
-{{ end }}
+
 {{ define "main" }}
+
+
+<h1 class="wardrobe-tag">{{ .Params.title }}</h1>
+
+<section class="paralax-image-blog">
+</section>
+
+<main class="wardrobe-main">
+
+    <article>
+        <p>
+            {{ .Content }}
+        </p>
+    </article>
+</main>
+
 {{ partial "blog.html" . }}
+
+
+
+
 {{ end }}
