@@ -1,11 +1,10 @@
 {{ define "main" }}
 <h1 class="blog-tag">{{ .Params.title }}</h1>
-
-<main class="blog-main">
-
+<img src="{{ .Params.image }}">
+<div class="blog-main">
     <article>
         {{ partial "blog.html" . }}
     </article>
-</main>
+</div>
 
 {{ end }}
