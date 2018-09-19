@@ -5,4 +5,6 @@ image = "/uploads/Screen Shot 2018-09-17 at 9.58.51 AM.png"
 title = "test with images"
 
 +++
+![](/uploads/Screen Shot 2018-09-17 at 9.58.51 AM.png)
+
 this is the body
