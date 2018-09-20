@@ -746,7 +746,7 @@ article .brooks {
     grid-column: 2/5;
     text-align: center;
     margin: 25px 0;
-    height: 80vh; }
+    height: 100vh; }
     .single-post .blog-main p {
       display: flex;
       font-size: 20px;
