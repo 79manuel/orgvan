@@ -755,8 +755,8 @@ article .brooks {
       .single-post .blog-main p img {
         justify-self: center;
         align-self: center;
-        width: 100px;
+        width: 200px;
         height: auto;
-        margin: auto; } }
+        margin: 30px auto; } }
 
 /*# sourceMappingURL=style.css.map */
