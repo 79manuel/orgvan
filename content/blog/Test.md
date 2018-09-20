@@ -7,7 +7,6 @@ description2 = ""
 description3 = ""
 description4 = ""
 description5 = ""
-draft = true
 image = "/uploads/emma-matthews-schedule-unsplash.png"
 title = "Test"
 
