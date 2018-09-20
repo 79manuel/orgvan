@@ -607,13 +607,15 @@ article .brooks {
     text-align: center;
     margin: 25px 0; }
     .single-post .blog-main p {
+      display: flex;
       font-size: 20px;
       padding: 10px 0;
       text-align: justify; }
-      .single-post .blog-main p img {
-        text-align: center;
-        width: 400px;
-        margin: auto; }
+    .single-post .blog-main img {
+      text-align: center;
+      width: 400px;
+      margin: auto;
+      border: 2px solid red; }
 
 @media only screen and (min-width: 689px) and (max-width: 1038px) {
   .paralax-image p {
