@@ -577,8 +577,10 @@ article .brooks {
         font-size: 28px;
         padding: 10px;
         text-align: center; }
-      .blog-list .post-container a h2 {
-        padding: 20px; }
+      .blog-list .post-container a p {
+        padding: 0 20px; }
+      .blog-list .post-container a h3 {
+        padding: 10px 20px; }
       .blog-list .post-container a div {
         display: flex; }
         .blog-list .post-container a div .post-image {
