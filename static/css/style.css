@@ -613,9 +613,8 @@ article .brooks {
       text-align: justify; }
       .single-post .blog-main p img {
         justify-self: center;
-        width: 400px;
-        margin: auto;
-        border: 2px solid red; }
+        width: 500px;
+        margin: auto; }
 
 @media only screen and (min-width: 689px) and (max-width: 1038px) {
   .paralax-image p {
