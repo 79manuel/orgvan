@@ -2,7 +2,6 @@
 author = "Manuel Cabello"
 date = "2018-09-20T11:18:10-07:00"
 date_ = "2018-09-20T00:00:00-07:00"
-draft = true
 image = "/uploads/emma-matthews-schedule-unsplash.png"
 title = "Blog entry"
 
