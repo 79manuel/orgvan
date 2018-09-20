@@ -742,17 +742,17 @@ article .brooks {
             height: 175px;
             object-fit: cover; }
 
-  .blog-main {
+  .single-post .blog-main {
     grid-column: 2/5;
     text-align: center;
     margin: 25px 0;
     height: 80vh; }
-    .blog-main p {
+    .single-post .blog-main p {
       display: flex;
       font-size: 20px;
       padding: 10px 0;
       text-align: justify; }
-      .blog-main p img {
+      .single-post .blog-main p img {
         justify-self: center;
         align-self: center;
         width: 100px;
