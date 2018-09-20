@@ -22,4 +22,5 @@ fields:
   name: image
   label: image
 pages:
+- content/blog/Blog-entry.md
 - content/blog/Wardrobe.md
