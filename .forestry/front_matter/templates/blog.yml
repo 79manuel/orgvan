@@ -18,5 +18,17 @@ fields:
   default: ''
   label: description
   name: description
+- type: textarea
+  name: description-2
+  label: description-2
+- type: textarea
+  name: description-3
+  label: description-3
+- type: textarea
+  name: description-4
+  label: description-4
+- type: textarea
+  name: description-5
+  label: description-5
 pages:
 - content/blog/Wardrobe.md
