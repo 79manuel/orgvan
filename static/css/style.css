@@ -600,7 +600,7 @@ article .brooks {
   .single-post .blog-main {
     grid-column: 2/5;
     text-align: center;
-    margin-top: 25px; }
+    margin: 25px 0; }
     .single-post .blog-main p {
       font-size: 20px; }
 
