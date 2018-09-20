@@ -19,16 +19,16 @@ fields:
   label: description
   name: description
 - type: textarea
-  name: description-2
-  label: description-2
+  name: description2
+  label: description2
 - type: textarea
-  name: description-3
-  label: description-3
+  name: description3
+  label: description3
 - type: textarea
-  name: description-4
-  label: description-4
+  name: description4
+  label: description4
 - type: textarea
-  name: description-5
-  label: description-5
+  name: description5
+  label: description5
 pages:
 - content/blog/Wardrobe.md
