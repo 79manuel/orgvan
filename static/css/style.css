@@ -610,8 +610,10 @@ article .brooks {
       font-size: 20px;
       padding: 10px 0;
       text-align: justify; }
-    .single-post .blog-main img {
-      display: block; }
+      .single-post .blog-main p img {
+        text-align: center;
+        width: 400px;
+        margin: auto; }
 
 @media only screen and (min-width: 689px) and (max-width: 1038px) {
   .paralax-image p {
