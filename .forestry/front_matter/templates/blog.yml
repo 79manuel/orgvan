@@ -38,5 +38,6 @@ fields:
   name: description5
   label: description5
 pages:
+- content/blog/Test-2.md
 - content/blog/Test.md
 - content/blog/Wardrobe.md
