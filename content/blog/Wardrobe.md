@@ -15,4 +15,4 @@ Some people are uncomfortable with the idea of letting other people to peek insi
 
 We provide an in-home service to review your current wardrobe with you, and give you an objective opinion  about each item. We help you put together new outfits using your existing wardrobe. Based on your lifestyle, we also make a list of items you could consider adding to complete a perfect wardrobe for you.
 
-![](/uploads/truck.jpg)
+![](/uploads/emma-matthews-schedule-unsplash.png)
