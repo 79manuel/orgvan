@@ -1,6 +1,6 @@
 ---
 label: " blog"
-hide_body: true
+hide_body: false
 is_partial: false
 fields:
 - type: text
@@ -21,22 +21,6 @@ fields:
 - type: file
   name: image
   label: image
-- type: textarea
-  default: ''
-  label: description
-  name: description
-- type: textarea
-  name: description2
-  label: description2
-- type: textarea
-  name: description3
-  label: description3
-- type: textarea
-  name: description4
-  label: description4
-- type: textarea
-  name: description5
-  label: description5
 pages:
 - content/blog/Test-2.md
 - content/blog/Test.md
