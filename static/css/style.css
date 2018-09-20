@@ -605,7 +605,8 @@ article .brooks {
   .single-post .blog-main {
     grid-column: 2/5;
     text-align: center;
-    margin: 25px 0; }
+    margin: 25px 0;
+    height: 80vh; }
     .single-post .blog-main p {
       display: flex;
       font-size: 20px;
@@ -613,7 +614,9 @@ article .brooks {
       text-align: justify; }
       .single-post .blog-main p img {
         justify-self: center;
-        width: 500px;
+        align-self: center;
+        width: 70%;
+        height: auto;
         margin: auto; }
 
 @media only screen and (min-width: 689px) and (max-width: 1038px) {
