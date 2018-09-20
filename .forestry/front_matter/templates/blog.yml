@@ -11,6 +11,9 @@ fields:
   name: date_
   label: date
   description: Date of blog entry
+  config:
+    date_format: MM/DD/YY
+    time_format: H:MM
 - type: file
   name: image
   label: image
