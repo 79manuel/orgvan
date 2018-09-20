@@ -3,9 +3,10 @@
     <a href="{{ .URL }}">
         <h1>{{ .Params.title }}</h1>
 
+
+        <h2>{{ .Params.date }}</h2>
+        <div>
+            <img class="post-image" src="{{ .Params.image }}">
+        </div>
     </a>
-    <h2>{{ .Params.date }}</h2>
-    <div>
-        <img class="post-image" src="{{ .Params.image }}">
-    </div>
 </div>
