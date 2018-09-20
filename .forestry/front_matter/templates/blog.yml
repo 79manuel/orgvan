@@ -13,7 +13,7 @@ fields:
   description: Date of blog entry
   config:
     date_format: MM/DD/YY
-    time_format: HH:MM
+    time_format: hh:mm
   default: ''
 - type: text
   label: author
