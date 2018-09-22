@@ -1,0 +1,7 @@
+{{ define "main" }}
+<div class="blog-list">
+    {{ range .Pages }}
+        {{ partial "blog-summary.html" . }}
+    {{ end }}
+</div>
+{{ end }}
