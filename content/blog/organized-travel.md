@@ -1,7 +1,7 @@
 +++
-author = ""
+author = "Laura Ting"
 date = "2018-10-14T09:39:44-07:00"
-date_ = ""
+date_ = "2018-10-14T08:00:00-07:00"
 draft = true
 image = ""
 title = "Organized Travel"
