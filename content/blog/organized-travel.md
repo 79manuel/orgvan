@@ -6,8 +6,6 @@ image = "/uploads/7FB7E6E3-CB4B-4239-B98F-C18CAC18D23E.jpeg"
 title = "Organized Travel"
 
 +++
-## **Organized travel**
-
 Organized travel has its challenges. What to pack requires planning and some guess work. And one formula does not fit all trips.
 
 Recently, I have been on a number of different business trips and they have all been so different. I have done several day trips by plane to various parts of BC. One day I may have to give a presentation. Another day might be a client meeting. I also had a recent week long business trip. Six days of packing to think about!
