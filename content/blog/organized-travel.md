@@ -6,7 +6,7 @@ image = "/uploads/7FB7E6E3-CB4B-4239-B98F-C18CAC18D23E.jpeg"
 title = "Organized Travel"
 
 +++
-    Organized travel
+## **Organized travel**
 
 Organized travel has its challenges. What to pack requires planning and some guess work. And one formula does not fit all trips.
 
@@ -38,4 +38,4 @@ I have learned a lot over the years - and here are the highlights I think everyo
 
 So that is basically it. Clothing for all your activities, including outerwear, the products needed for the downtime like the book, gym stuff, camera, or other activities, toiletries and technology necessities.
 
-    Thinking in this way systematically allows you to consider the many potential scenarios, become realistic about what needs you will have because of these activities, and pack accordingly. The truly good news is that, almost anywhere we travel, if we have forgotten something truly essential, the odds are very good that we will be able to purchase that item at our destination.
+Thinking in this way systematically allows you to consider the many potential scenarios, become realistic about what needs you will have because of these activities, and pack accordingly. The truly good news is that, almost anywhere we travel, if we have forgotten something truly essential, the odds are very good that we will be able to purchase that item at our destination.
