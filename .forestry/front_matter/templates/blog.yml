@@ -22,5 +22,6 @@ fields:
   name: image
   label: image
 pages:
+- content/blog/how-do-i-get-on-top-of-my-schedule.md
 - content/blog/organized-travel.md
 - content/blog/Wardrobe.md
