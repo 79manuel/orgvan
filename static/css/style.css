@@ -738,7 +738,8 @@ article .brooks {
     grid-auto-rows: minmax(100px, auto);
     grid-gap: 20px;
     height: 100%;
-    margin: 120px 10px 0 10px; }
+    margin: 120px 10px 0 10px;
+    padding-bottom: 120px; }
     .blog-list .post-container {
       height: 60%;
       border: 1px solid black;
