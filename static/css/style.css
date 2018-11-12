@@ -607,7 +607,7 @@ article .brooks {
     grid-row: 3;
     text-align: center;
     margin: 25px 0;
-    height: auto; }
+    height: 100%; }
     .single-post .blog-main p {
       display: flex;
       font-size: 20px;
@@ -649,7 +649,7 @@ article .brooks {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-auto-rows: minmax(100px, auto);
     grid-gap: 20px;
-    height: 50vh;
+    height: 150vh;
     margin: 120px 10px 0 10px; }
     .blog-list .post-container {
       height: 50%;
@@ -767,7 +767,7 @@ article .brooks {
     grid-column: 2/5;
     text-align: center;
     margin: 25px 0;
-    height: auto; }
+    height: 100%; }
     .single-post .blog-main p {
       display: flex;
       font-size: 20px;
