@@ -576,7 +576,8 @@ article .brooks {
       .blog-list .post-container a h1 {
         font-size: 28px;
         padding: 10px;
-        text-align: center; }
+        text-align: center;
+        height: 95px; }
       .blog-list .post-container a p {
         padding: 0 20px; }
       .blog-list .post-container a h3 {
@@ -652,7 +653,7 @@ article .brooks {
     height: 150vh;
     margin: 120px 10px 0 10px; }
     .blog-list .post-container {
-      height: 50%;
+      height: 30%;
       border: 1px solid black;
       box-shadow: 5px 5px 5px lightgrey;
       margin-bottom: 10px; }
@@ -661,7 +662,8 @@ article .brooks {
         .blog-list .post-container a h1 {
           font-size: 28px;
           padding: 10px;
-          text-align: center; }
+          text-align: center;
+          height: 95px; }
         .blog-list .post-container a p {
           padding: 0 20px; }
         .blog-list .post-container a h3 {
@@ -742,7 +744,7 @@ article .brooks {
     margin: 120px 10px 0 10px;
     padding-bottom: 120px; }
     .blog-list .post-container {
-      height: 60%;
+      height: 86%;
       border: 1px solid black;
       box-shadow: 5px 5px 5px lightgrey;
       margin-bottom: 10px; }
@@ -752,7 +754,7 @@ article .brooks {
           font-size: 28px;
           padding: 10px;
           text-align: center;
-          height: 75px; }
+          height: 95px; }
         .blog-list .post-container a p {
           padding: 0 20px; }
         .blog-list .post-container a h3 {
