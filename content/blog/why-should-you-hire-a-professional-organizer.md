@@ -3,7 +3,7 @@ author = "Laura"
 date = "2019-01-01T18:27:40-08:00"
 date_ = "2019-01-01T18:02:00-08:00"
 image = "/uploads/IMG_1486-1.JPG"
-title = "Why Should You Hire a Professional Organizer"
+title = "Why Hire a Professional Organizer"
 
 +++
 When it comes to organizing the spaces in your home, your office, or your documents, it can be hard to know where to start. Your home is your sanctuary and it is important that your spaces, your belongings and your processes work for you. Life has many stresses that are sometimes associated with change - moving home, changing relationships, changing jobs and having children. These changes present challenges - including a need to get organized or reorganize.
