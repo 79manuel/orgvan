@@ -840,7 +840,7 @@ article .brooks:before {
 }
 @media only screen and (max-width: 736px) {
   .paralax-image p {
-    transform: translate(48px, -22px) !important;
+    transform: translate(48px, -74px);
     font-size: 18px !important;
   }
   .paralax-image p:nth-child(3) {
