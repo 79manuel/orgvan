@@ -702,11 +702,11 @@ article .brooks:before {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-auto-rows: minmax(100px, auto);
   grid-gap: 20px;
-  height: 100%;
-  margin: 175px 10px 141px 10px;
+  height: 77%;
+  margin: 185px 10px 141px 10px;
 }
 .blog-list .post-container {
-  height: 55%;
+  height: 64%;
   border: 1px solid black;
   box-shadow: 5px 5px 5px lightgrey;
 }
@@ -920,7 +920,7 @@ article .brooks:before {
     grid-gap: 20px;
     height: 100%;
     margin: 175px 10px 0 10px;
-    padding-bottom: 120px;
+    padding-bottom: 172px;
   }
   .blog-list .post-container {
     height: 79%;
@@ -948,7 +948,6 @@ article .brooks:before {
   }
   .blog-list .post-container a div .post-image {
     width: 100%;
-    height: 175px;
     object-fit: cover;
   }
 
