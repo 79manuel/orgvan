@@ -664,6 +664,10 @@ main div .description-box {
   padding: 10px 20px;
   margin: 20px;
 }
+.about-me div:nth-child(2) p:nth-child(4) {
+  text-align: left;
+  color: red;
+}
 .about-me div:nth-child(2) ul li ul {
   list-style-position: inside;
 }
