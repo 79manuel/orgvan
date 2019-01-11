@@ -899,7 +899,7 @@ article .brooks:before {
   .office-main article p, .about-main article p, .documents-main article p, .homeorg-main article p, .wardrobe-main article p {
     padding-bottom: 12pt;
     font-size: 18px;
-    text-align: justify;
+    text-align: center;
   }
 
   main div a .service-image .office, main div a .service-image .home, main div a .service-image .document {
