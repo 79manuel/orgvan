@@ -16,7 +16,7 @@ So what’s the big deal about getting organized? Maybe you think the only peopl
 
 Is it possible that your home’s lack of order is more than just a little unsightly? Does being disorganized have consequences you have never thought of? Could clutter be part of what is getting in your way? What is meant when people say “a home is a reflection of its inhabitants”? 
 
-Chogyam Trungpa Rinpoche, a Shambhala teacher, says that how you care for your space - whether you care for it tenderly, or allow clutter to accumulate - is indicative of the dignity and respect you have for yourself. How you do anything is how you do everything.
+Chogyam Trungpa Rinpoche, a Shambhala teacher, observes that how you care for your space - whether you care for it tenderly, or allow clutter to accumulate - is indicative of the dignity and respect you have for yourself. How you do anything is how you do everything.
 
 Consider this perspective. How often do you find yourself hunting down your house keys or wallet? Your cell phone? Do you ever go to work or to a client appointment having forgotten important files? Do you procrastinate at all? Are you achieving the goals you set for yourself? What these have in common, among many things, is a lack of organization.
 
