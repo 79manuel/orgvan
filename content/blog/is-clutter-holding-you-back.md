@@ -24,7 +24,7 @@ Taking care of physical clutter is a surprisingly effective place to start when 
 
 I don’t believe you need to be a minimalist and remove even 10% of your belongings to start to feel the impact. Getting rid of a little clutter can a long way.
 
-My clients have all agreed that this feeling of purging - one stage of getting organized - delivers a feeling of being lighter. Possessions carry real weight - and weight holds you down and it prevents you from moving forward. This is true both physically (imagine running with a heavy backpack) as well as mentally and emotionally. Clutter can slow you down in ways that may surprise you.
+My clients have all agreed that this feeling of purging - one stage of getting organized - delivers a feeling of being lighter. Possessions carry real weight - and weight holds you down and it prevents you from moving forward. It’s believable if it’s a backpack when you’re running. But it also works mentally and emotionally. Clutter can slow you down in ways that may surprise you.
 
 I believe the process of organizing your home is like that of a caterpillar transforming into a butterfly. It goes into its cocoon, and there it undergoes a beautiful transformation, coming out as a freer and lighter creature. Getting organized is also a transformative process, and it can take time. Time that is well spent thanks to the peace of mind and sense of comfort you regain from your home.
 
