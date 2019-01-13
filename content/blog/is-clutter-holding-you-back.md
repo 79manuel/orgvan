@@ -10,9 +10,7 @@ title = "Is Clutter Holding you Back?"
 
 Getting organized has become a hot topic again now that Marie Kondo’s series is being promoted on Netflix and on billboards. She is not the first leader in the world of professional organizing. Oprah often hosted shows focusing on the topic of personal organizing with leaders like Julie Morgenstern and Peter Walsh. The world of personal organizing is coming of age.
 
-So what’s the big deal about getting organized? Maybe you think the only people who need a hand are certified hoarders. What’s the big deal of having a little clutter here and there? Some things here, some piles there, and somewhere else — your wallet and keys! You’re probably thinking “My mess isn’t hurting anybody!”.
-
-**OR IS IT?**
+So what’s the big deal about getting organized? Maybe you think the only people who need a hand are certified hoarders. What’s the big deal of having a little clutter here and there? Clothes here and there, some piles in different rooms, and who knows where did you leave your wallet and keys! If you are thinking “My mess isn’t hurting anybody!”, you’re not thinking of how it impacts you!
 
 Is it possible that your home’s lack of order is more than just a little unsightly? Does being disorganized have consequences you have never thought of? Could clutter be part of what is getting in your way? What is meant when people say “a home is a reflection of its inhabitants”? 
 
