@@ -2,7 +2,6 @@
 author = ""
 date = "2019-01-12T16:03:30-08:00"
 date_ = ""
-draft = true
 image = "/uploads/DC0EE6CA-759C-4207-BC6B-D6A747102685.jpeg"
 title = "Is Clutter Holding you Back?"
 
