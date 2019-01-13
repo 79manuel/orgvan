@@ -16,7 +16,7 @@ Is it possible that your home’s lack of order is more than just a little unsig
 
 Chogyam Trungpa Rinpoche, a Shambhala teacher, observes that how you care for your space - whether you care for it tenderly, or allow clutter to accumulate - is indicative of how you care for yourself. How you do anything is how you do everything.
 
-Consider this perspective. How often do you find yourself hunting down your house keys or wallet? Your cell phone? Do you ever go to work or to a client appointment having forgotten important files? Do you procrastinate at all? Are you achieving the goals you set for yourself? What these have in common, among many things, is a lack of organization.
+Consider this perspective. Have you ever wondered how much time you spend hunting down your house keys or wallet? Do you ever go to work or to a client appointment having forgotten important files? Frustration might be emotionally costly, but let’s face it - time is money!
 
 Physical clutter is tangible. You can see it. It can affect your desire to have people in your home. (CHAOS stands for “can’t have anyone over situation”.) It is a distraction that, like it or not, acts like a notification signal on your phone reminding you that there is unfinished business. If you live with others, it can affect your relationship. Perhaps you live with someone who allows their belongings to accumulate in every nook and cranny and it drives you bananas.
 
