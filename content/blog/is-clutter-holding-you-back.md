@@ -26,6 +26,6 @@ I don’t believe you need to be a minimalist and remove even 10% of your belong
 
 My clients have all agreed that this feeling of purging - one stage of getting organized - delivers a feeling of being lighter. Possessions carry real weight - and weight holds you down and it prevents you from moving forward. It’s believable if it’s a backpack when you’re running. But it also works mentally and emotionally. Clutter can slow you down in ways that may surprise you.
 
-I believe the process of organizing your home is like that of a caterpillar transforming into a butterfly. It goes into its cocoon, and there it undergoes a beautiful transformation, coming out as a freer and lighter creature. Getting organized is also a transformative process, and it can take time. Time that is well spent thanks to the peace of mind and sense of comfort you regain from your home.
+I believe the process of organizing your home is like that of a caterpillar transforming into a butterfly. It goes into its cocoon, and there it undergoes a beautiful transformation, coming out as a freer and lighter creature. Getting organized is a transformative process, and it can take time. Time that is well spent thanks to the peace of mind and sense of comfort you regain from your home.
 
 I love talking about organizing. Contact me to talk about creating an action plan that will help you get your home, or part of your home, office, or life in order. Let’s have a chat. Consultation is free and easy. \~ Laura
