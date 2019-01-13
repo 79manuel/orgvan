@@ -22,7 +22,7 @@ Physical clutter is tangible. You can see it. It can affect your desire to have 
 
 Taking care of physical clutter is a surprisingly effective place to start when you are feeling stuck in life. According to Psychology Today, a key factor to being a happier person is removing clutter from your home. It has helped me and many of my clients. For example, I have always maintained a very tidy home, but as life would have it, I accumulated many things over time. I have moved a few times as an adult, and each time I had to face the orderly stacks of possessions I had collected.  I have noticed the feeling of lightening up after making the decision to donate and discard excess (perfectly good) things from my home. Things that didn’t get used. Things that used to get used but got upgraded before I wore them out. Things that still possessed basic value - just not to me - like ill-fitting clothes or an egg-slicer. 
 
-I don’t believe you need to be a minimalist and remove even 10% of your belongings to start to feel the impact. Getting rid of a little clutter can a long way.
+I don’t believe that you need to be a minimalist, or have to remove even 10% of your belongings to start to feel the impact. Getting rid of a little clutter can a long way.
 
 My clients have all agreed that this feeling of purging - one stage of getting organized - delivers a feeling of being lighter. Possessions carry real weight - and weight holds you down and it prevents you from moving forward. It’s believable if it’s a backpack when you’re running. But it also works mentally and emotionally. Clutter can slow you down in ways that may surprise you.
 
