@@ -12,7 +12,7 @@ Getting organized has become a hot topic again now that Marie Kondo’s series i
 
 So what’s the big deal about getting organized? Maybe you think the only people who need a hand are certified hoarders. What’s the big deal of having a little clutter here and there? Some things here, some piles there, and somewhere else — your wallet and keys! You’re probably thinking “My mess isn’t hurting anybody!”.
 
-**Or is it?**
+**OR IS IT?**
 
 Is it possible that your home’s lack of order is more than just a little unsightly? Does being disorganized have consequences you have never thought of? Could clutter be part of what is getting in your way? What is meant when people say “a home is a reflection of its inhabitants”. Chogyam Trungpa Rinpoche, a Shambhala teacher, would suggest that how you care for your space - whether you care for it tenderly, or allow clutter to accumulate - is indicative of the dignity and respect you have for yourself. How you do anything is how you do everything.
 
