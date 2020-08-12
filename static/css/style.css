@@ -302,7 +302,7 @@ footer .footer-block-1 div h1 {
   grid-row: 1;
   justify-self: center;
   align-self: start;
-  margin-top: 15px;
+  margin: 15px 0;
 }
 footer .footer-block-1 div ul {
   grid-row: 2;
@@ -332,7 +332,7 @@ footer .footer-block-1 .contact-info {
 footer .footer-block-1 .contact-info h1 {
   justify-self: center;
   align-self: start;
-  margin-top: 15px;
+  margin: 15px 0;
 }
 footer .footer-block-1 .contact-info ul {
   text-align: center;
